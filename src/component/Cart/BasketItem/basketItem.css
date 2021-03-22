@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+.right-element {
+    margin-left: auto;
+    cursor: pointer;
+}
+.right-element i {
+    align-self: center;
+}
+.quantity {
+    cursor: pointer;
+}

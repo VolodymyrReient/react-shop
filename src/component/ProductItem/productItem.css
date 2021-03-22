@@ -1,0 +1,13 @@
+.card {
+    display: flex;
+    flex-direction: column;
+}
+.card-content {
+    flex-grow: 1;
+}
+.card-action {
+    margin-top: 10px;
+}
+.btn {
+    width: 40%;
+}
